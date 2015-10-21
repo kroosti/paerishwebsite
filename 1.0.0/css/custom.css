@@ -1,0 +1,44 @@
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px; height: 0; overflow: hidden;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+
+.team-4 [class*='col-'], .team-2 [class*='col-'] {
+	padding: 0;
+}
+
+li.menu-social {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+li.menu-social a.foo_social{
+    width: 100%;
+    height: 100%;
+    text-align: left;
+}
+
+
+
+.top-nav-collapse .navbar-nav > li.menu-social {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
+
+.soundcloud-frame {
+    margin-bottom: 15px;
+}
+

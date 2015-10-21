@@ -1,0 +1,13 @@
+
+Hello,
+
+We are using "Owl Carousel | 2.0.0-beta.2.4" in this theme.
+
+You can read the documentation from here - http://owlcarousel.owlgraphic.com/docs/started-welcome.html
+
+--------------
+
+ThankYou
+
+--------------
+
